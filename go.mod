@@ -1,3 +1,3 @@
-module github.com/myuser/calculator
+module github.com/billston/calculator
 
 go 1.17
